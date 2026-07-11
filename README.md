@@ -80,7 +80,7 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
  github: [`rossrobino/typo`](https://github.com/rossrobino/typo)) - View content as a document or slideshow with a variety of themes in the browser.
 
  **Word2md.com**
- (web: [`Word2md.com`](https://Word2md.com/), - Converting a Word (or Google) Document to markdown, very is easy steps. Just upload your .docx or .doc document, then the praser converts it to crisp, clean Markdown version.
+ (web: [`Word2md.com`](https://word2md.com/)) - Converting a Word (or Google) Document to Markdown is easy. Just upload your `.docx` or `.doc` document, then the parser converts it to a crisp, clean Markdown version.
 
 **Word2md.net**
 (web: [`word2md.net`](https://word2md.net/)), - Batch converts Word or Google Docs files to Markdown, including folder uploads and multi-file processing to speed up documentation workflows.
@@ -183,7 +183,7 @@ A free, open-source, cross-platform desktop Markdown editor that can produce bea
 
 KeenWrite simplifies using variables in documents. Variables are useful for character sheets, consistent palette in technical diagrams, and computations when coupled with R.
 
-See the [tutorials]([https://www.youtube.com/watch?v=u_dFd6UhdV8](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_)) for details.
+See the [tutorials](https://www.youtube.com/playlist?list=PLB-WIt1cZYLm1MMx2FBG9KWzPIoWZMKu_) for details.
 
 [**Markpad**](https://markpad.sftwr.dev/) (FREE, open source)
 
